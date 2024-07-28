@@ -1,0 +1,19 @@
+#JS Live Link 
+1.
+2. https://provash10.github.io/beita-JS-6-7-8-9-Output/
+3. https://provash10.github.io/beita-JS-10-Test-Project/
+3.1 https://provash10.github.io/beita-JS-10.1-Pracice-1/
+4. https://provash10.github.io/beita-JS-11-12-Variables/
+4.1 https://provash10.github.io/beita-JS-11-12-Variables-Practice-1/
+5. https://provash10.github.io/beita-JS-13-14-Operators-Data-Types/
+6. https://provash10.github.io/beita-JS-15-Conditional-Statement/
+6.1 https://provash10.github.io/beita-JS-15-Conditional-Statement-Practice-1/
+7.  https://provash10.github.io/beita-JS-16-Switch-Statement/
+8. https://provash10.github.io/beita-JS-17-For-Loop/
+9. https://provash10.github.io/beita-JS-18-Finding-ODD-Number/
+10. https://provash10.github.io/beita-JS-19-20-While-Loop-Do-While-Loop/
+11. https://provash10.github.io/beita-JS-21-Array/ 
+12. https://provash10.github.io/beita-JS-22-23-Conditional-Ternary-Operator/
+13. https://provash10.github.io/beita-JS-24-25-Object-Scope/
+14. https://provash10.github.io/beita-JS-26-Weight-Converter-Project-1/
+15. https://provash10.github.io/beita-JS-26.1-Weight-Converter-Pound-Kg-Practice-1/
